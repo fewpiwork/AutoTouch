@@ -27,7 +27,6 @@
 - Sign Permit的buttonClass 或 Sign Permit的buttonId
 - 每个网站操作次数: 2
 - Telegram Bot API Token与Chat ID
-- 可自定义的浏览器指纹参数
 - 已访问网站本地存储路径
 
 ### 数据存储与处理
